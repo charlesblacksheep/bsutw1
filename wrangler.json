@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bsutw1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c6f4b141-1395-4e34-9e16-d4703bf4fca4",
+			"database_name": "bsutw1-DB"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
